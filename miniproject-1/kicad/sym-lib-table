@@ -1,0 +1,10 @@
+(sym_lib_table
+	(version 7)
+	(lib
+		(name "MP1_Analog")
+		(type "KiCad")
+		(uri "${KIPRJMOD}/MP1_Analog.kicad_sym")
+		(options "")
+		(descr "MCP6021 hardware symbol with triangular amplifier body")
+	)
+)
