@@ -1,0 +1,38 @@
+% LED Flasher Video, Eclectronics Fall 2026
+% Build: latexmk report.tex (PDF here, aux files in build/)
+\documentclass[11pt]{article}
+
+\usepackage[margin=0.5in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{cmbright}
+\usepackage{microtype}
+\usepackage{parskip}
+
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+\usepackage{caption}
+\captionsetup{font=small, labelfont=bf}
+\usepackage{float}
+\usepackage[hidelinks]{hyperref}
+
+\newcommand{\videourl}{https://www.youtube.com/watch?v=PAAPW4VCT5A}
+
+\begin{document}
+\begin{center}
+  {\LARGE\bfseries LED Flasher Video}\\[3pt]
+  {\large Eclectronics Fall 2026 at Olin College}\\[2pt]
+  David Barsoum
+\end{center}
+\vspace{4pt}
+
+\section{Video}
+Click the image below to watch the LED flasher video on YouTube.
+
+\begin{figure}[H]
+  \centering
+  \href{\videourl}{\includegraphics[width=0.9\linewidth]{video-thumbnail.jpg}}
+  \caption{LED flasher video. Link: \url{\videourl}}
+  \label{fig:video}
+\end{figure}
+
+\end{document}
