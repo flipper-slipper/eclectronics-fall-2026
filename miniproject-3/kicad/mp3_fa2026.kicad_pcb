@@ -6331,7 +6331,7 @@
 		(property "Reference" "X1"
 			(at 0.01 2.3 0)
 			(layer "F.SilkS")
-			(uuid "68ca9faa-464a-41b7-9e3c-907076b7d25b")
+			(uuid "edd70ab2-9342-4614-8b7d-1708c6f96cca")
 			(effects
 				(font
 					(size 0.9 0.9)
@@ -6342,7 +6342,7 @@
 		(property "Value" "IQXO-791_12MHz"
 			(at 0 2.3 0)
 			(layer "F.Fab")
-			(uuid "23df7949-375e-481b-8e68-14a4b5e4bbf2")
+			(uuid "147d8970-b2f0-4957-a80e-ff18eb09ffcd")
 			(effects
 				(font
 					(size 1 1)
@@ -6354,7 +6354,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b4797a03-1b48-4ba2-a40e-b6634463c3f6")
+			(uuid "3fd3e3e4-85cd-42f2-a8fc-5b9151f1d132")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6365,7 +6365,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "27951f86-6ef9-4741-84f5-b6b449c2557d")
+			(uuid "f980a153-1982-40a8-bccd-2b1d32ce9cf4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9365,8 +9365,8 @@
 		(layer "Edge.Cuts")
 		(uuid "34c985a7-cb3e-4a14-ae7a-d0308ae11524")
 	)
-	(gr_text "David Barsoum"
-		(at 194.4 146.504835 0)
+	(gr_text "David Barsoum v2"
+		(at 192 146 0)
 		(layer "F.SilkS")
 		(uuid "07bfab89-afdc-4938-a964-21c09a8efca6")
 		(effects
