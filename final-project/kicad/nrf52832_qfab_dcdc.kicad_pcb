@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(general
-		(thickness 1.69132)
+		(thickness 0.116)
 		(legacy_teardrops no)
 	)
 	(paper "A4")
@@ -37,7 +37,55 @@
 		(67 "User.15" user "Mechanical 15")
 	)
 	(setup
-		(pad_to_mask_clearance 0.0762)
+		(stackup
+			(layer "F.SilkS"
+				(type "Top Silk Screen")
+			)
+			(layer "F.Paste"
+				(type "Top Solder Paste")
+			)
+			(layer "F.Mask"
+				(type "Top Solder Mask")
+				(color "Yellow")
+				(thickness 0.0275)
+				(material "Coverlay PI 12.5um + adh 15um")
+				(epsilon_r 3.3)
+				(loss_tangent 0.004)
+			)
+			(layer "F.Cu"
+				(type "copper")
+				(thickness 0.018)
+			)
+			(layer "dielectric 1"
+				(type "core")
+				(thickness 0.025)
+				(material "Polyimide")
+				(epsilon_r 3.2)
+				(loss_tangent 0.004)
+			)
+			(layer "B.Cu"
+				(type "copper")
+				(thickness 0.018)
+			)
+			(layer "B.Mask"
+				(type "Bottom Solder Mask")
+				(color "Yellow")
+				(thickness 0.0275)
+				(material "Coverlay PI 12.5um + adh 15um")
+				(epsilon_r 3.3)
+				(loss_tangent 0.004)
+			)
+			(layer "B.Paste"
+				(type "Bottom Solder Paste")
+			)
+			(layer "B.SilkS"
+				(type "Bottom Silk Screen")
+			)
+			(copper_finish "ENIG")
+			(dielectric_constraints no)
+		)
+		(pad_to_mask_clearance 0.1)
+		(solder_mask_min_width 0.5)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting
 			(front yes)
