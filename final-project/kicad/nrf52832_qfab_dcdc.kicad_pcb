@@ -5420,6 +5420,137 @@
 		)
 		(embedded_fonts no)
 	)
+	(gr_line
+		(start 108.05 70)
+		(end 108.05 136.3)
+		(stroke
+			(width 0.3)
+			(type dash_dot)
+		)
+		(layer "Dwgs.User")
+		(uuid "4b4af599-d39f-4279-8df5-9594300deef2")
+	)
+	(gr_text "FOLD x=108.05"
+		(at 108.05 103.15 90)
+		(layer "Dwgs.User")
+		(uuid "ed6c04f2-a937-406f-8ad3-f6444fcdf400")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.2)
+			)
+		)
+	)
+	(gr_rect
+		(start 103.05 70)
+		(end 113.05 136.3)
+		(stroke
+			(width 0.2)
+			(type dash)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "7785c6bb-792c-474f-ba27-254adc0bfb24")
+	)
+	(gr_text "FOLD KEEP-OUT: no parts / vias"
+		(at 105.5 103.15 90)
+		(layer "Dwgs.User")
+		(uuid "5c4ba352-4df6-40c2-981b-a4cd03b28b6d")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.2)
+			)
+		)
+	)
+	(gr_rect
+		(start 35 77.15)
+		(end 87 129.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "5c79290a-55f2-4460-a191-5a59c692a6f8")
+	)
+	(gr_text "BATTERY CP105050 body 52x52"
+		(at 61 103.15 0)
+		(layer "Dwgs.User")
+		(uuid "9c1e5e1f-4029-4d4e-9d05-689ffea39d07")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.2)
+			)
+		)
+	)
+	(gr_rect
+		(start 87 77.15)
+		(end 92 129.15)
+		(stroke
+			(width 0.2)
+			(type dash)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "80ef4025-fe41-475a-bcb5-840c81005925")
+	)
+	(gr_text "TABS (size TBD)"
+		(at 89.5 103.15 90)
+		(layer "Dwgs.User")
+		(uuid "fc323b6c-1f19-4e9e-b519-f3b337bdcd1d")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.2)
+			)
+		)
+	)
+	(gr_rect
+		(start 113.05 71)
+		(end 166.1 135.3)
+		(stroke
+			(width 0.2)
+			(type dash)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "aa95db06-4f7a-447b-be2b-ef7b0b63f429")
+	)
+	(gr_text "ELECTRONICS: nRF, xtals, pi-match, Tag-Connect"
+		(at 139.6 73.5 0)
+		(layer "Dwgs.User")
+		(uuid "86954b0e-96ce-4b81-9583-faf567a92cdd")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+		)
+	)
+	(gr_rect
+		(start 166.1 70)
+		(end 186.1 136.3)
+		(stroke
+			(width 0.2)
+			(type dash)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "fc6b09b4-a829-4ccf-809f-da9422bf64a1")
+	)
+	(gr_text "ANTENNA KEEP-OUT: no copper either layer"
+		(at 176.1 103.15 90)
+		(layer "Dwgs.User")
+		(uuid "bd702cc2-533a-44c3-b3f5-3e8bfb57da64")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+			)
+		)
+	)
 	(gr_rect
 		(start 30 70)
 		(end 186.1 136.3)
