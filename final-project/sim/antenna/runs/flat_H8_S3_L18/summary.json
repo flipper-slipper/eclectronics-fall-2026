@@ -1,0 +1,28 @@
+{
+  "case": "flat",
+  "gap_mm": null,
+  "H_mm": 8.0,
+  "S_mm": 3.0,
+  "arm_mm": 18.0,
+  "W_mm": 1.0,
+  "f_res_GHz": 2.864,
+  "s11_min_dB": -7.57,
+  "s11_at_2440_dB": -2.51,
+  "zin_at_2440_ohm": [
+    223.3,
+    164.1
+  ],
+  "zin_at_res_ohm": [
+    100.0,
+    41.8
+  ],
+  "bw_minus10dB_GHz": null,
+  "rad_eff_at_res_pct": 99.9,
+  "tot_eff_at_2440_pct": 43.9,
+  "Dmax_at_2440_dBi": 4.79,
+  "arm_for_2440_mm": 22.52,
+  "lmatch_at_2440": [
+    "shunt C 0.60 pF at antenna, then series L 7.91 nH toward radio",
+    "shunt L 13.28 nH at antenna, then series C 0.54 pF toward radio"
+  ]
+}

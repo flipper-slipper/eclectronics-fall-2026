@@ -1,0 +1,31 @@
+{
+  "case": "wallet",
+  "gap_mm": 1.0,
+  "H_mm": 8.0,
+  "S_mm": 3.0,
+  "arm_mm": 19.0,
+  "W_mm": 1.0,
+  "f_res_GHz": 2.326,
+  "s11_min_dB": -17.53,
+  "s11_at_2440_dB": -9.47,
+  "zin_at_2440_ohm": [
+    43.7,
+    32.8
+  ],
+  "zin_at_res_ohm": [
+    60.8,
+    10.1
+  ],
+  "bw_minus10dB_GHz": [
+    2.236,
+    2.43
+  ],
+  "rad_eff_at_res_pct": 74.5,
+  "tot_eff_at_2440_pct": 68.9,
+  "Dmax_at_2440_dBi": 3.15,
+  "arm_for_2440_mm": 17.74,
+  "lmatch_at_2440": [
+    "series C 4.02 pF at antenna, then shunt C 0.49 pF on radio side",
+    "series C 1.32 pF at antenna, then shunt L 8.61 nH on radio side"
+  ]
+}
