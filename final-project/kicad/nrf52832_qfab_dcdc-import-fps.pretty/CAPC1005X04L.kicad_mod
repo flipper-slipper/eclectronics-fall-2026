@@ -122,7 +122,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "User.7")
+		(layer "F.Fab")
 		(uuid "eb5ecfaa-1b27-4ae3-b051-8bdf401fc767")
 	)
 	(fp_line
@@ -132,7 +132,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "User.7")
+		(layer "F.Fab")
 		(uuid "1b3c46e4-ad0f-4e70-8a9e-256d24cc358e")
 	)
 	(fp_line
@@ -142,7 +142,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "User.7")
+		(layer "F.Fab")
 		(uuid "b5898f06-8996-4d26-be6e-5ea524427c89")
 	)
 	(fp_line
@@ -152,7 +152,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "User.7")
+		(layer "F.Fab")
 		(uuid "452814a2-1ac6-4fb3-8b77-113de8325271")
 	)
 	(fp_line
@@ -162,7 +162,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "User.15")
+		(layer "F.CrtYd")
 		(uuid "44316701-2eb1-4282-b1aa-039a3d374517")
 	)
 	(fp_line
@@ -172,7 +172,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "User.15")
+		(layer "F.CrtYd")
 		(uuid "1785ad56-f365-4697-ab7c-03f9abca8ebd")
 	)
 	(fp_line
@@ -182,7 +182,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "User.15")
+		(layer "F.CrtYd")
 		(uuid "cef39457-4e65-48ab-90b4-c445d792ff56")
 	)
 	(fp_line
@@ -192,7 +192,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "User.15")
+		(layer "F.Fab")
 		(uuid "8b35c01a-5db1-479c-8967-a58c7388ba78")
 	)
 	(fp_line
@@ -202,7 +202,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "User.15")
+		(layer "F.Fab")
 		(uuid "ca49f346-9c0b-4789-82d1-5ca174a4c7b5")
 	)
 	(fp_line
@@ -212,7 +212,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(layer "User.15")
+		(layer "F.CrtYd")
 		(uuid "4ae0e5d2-5600-4cca-940a-4a4f83544fe1")
 	)
 	(pad "1" smd rect
